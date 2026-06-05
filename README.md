@@ -1,4 +1,4 @@
-Codex Calculator
+Codex Calculator - https://codex-calculator-e8kzprecj-oliveryao09s-projects.vercel.app/
 
 A modern calculator web application built entirely with AI-assisted development using Codex and powered by Next.js.
 
